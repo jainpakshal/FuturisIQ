@@ -1,2 +1,0 @@
-# FuturisIQ-
-AI Career Finder
